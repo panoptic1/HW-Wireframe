@@ -75,4 +75,11 @@ footer {
 
 body {
         background-color: #777777;
+        position: relative;
+}
+
+.container {
+        position: absolute;
+        top: 50%;
+        height: 1000px;
 }
