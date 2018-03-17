@@ -27,7 +27,7 @@ section {
         text-align: center;
         background-color: #ebebeb;
         color: #777777;
-        width: 495px;
+        width: 400px;
 }
 
 article {
@@ -61,7 +61,7 @@ aside {
         text-align: center;
         background-color: #ebebeb;
         color: #777777;
-        width: 385px;
+        width: 280px;
 }
 
 footer {
@@ -79,7 +79,5 @@ body {
 }
 
 .container {
-        position: absolute;
-        top: 50%;
-        height: 1000px;
+        padding-left: 200px;
 }
